@@ -1,2 +1,2 @@
 # Financial-Product-Recommender-System
-Designed a supervised machine learning model to match user profiles with suitable financial products, integrating results into interactive dashboards to improve data quality assurance and support evidence-based decision-making.
+Implemented a structured data analytics workflow: data ingestion from multiple sources, EDA, data quality assessment, variable engineering, and dimensional modeling. Generated SQL reports in BigQuery and visualized insights through Power BI dashboards for decision support.
